@@ -1,0 +1,2 @@
+# math_drawing
+With this program you'll be able to make images with self drawn rectangles and/or squares. The program'll ask for x- and y-coordinates, width and height of the canvas and of the shape you want to draw. You can draw as many rectangles and squares as you want. When you're done drawing, you can type 'quit' and the program will make of your drawing a PNG file in the same directory as the program. This program is part of my OOP (Object-Oriented-Programming) training.
